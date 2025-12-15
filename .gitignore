@@ -1,0 +1,9 @@
+
+# secrets
+rclone.conf
+**/rclone.conf
+*.env
+
+# models (never commit)
+models/
+ComfyUI/models/
